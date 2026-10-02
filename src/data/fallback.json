@@ -1,0 +1,709 @@
+{
+  "fetchedAt": "2026-10-02T02:04:39.931Z",
+  "live": false,
+  "profile": {
+    "login": "Gavin-gwj",
+    "name": "Gavin-gwj",
+    "avatar": "https://avatars.githubusercontent.com/u/52821069?v=4",
+    "bio": "",
+    "company": "",
+    "location": "",
+    "blog": "",
+    "url": "https://github.com/Gavin-gwj",
+    "createdAt": "2019-07-12T09:51:26Z"
+  },
+  "stats": {
+    "repos": 17,
+    "stars": 0,
+    "forks": 0,
+    "followers": 1,
+    "following": 3
+  },
+  "languages": [
+    {
+      "name": "Vue",
+      "percent": 87.08964165123625
+    },
+    {
+      "name": "HTML",
+      "percent": 9.033874305631196
+    },
+    {
+      "name": "JavaScript",
+      "percent": 3.390698181026032
+    },
+    {
+      "name": "Java",
+      "percent": 0.4857858621065243
+    }
+  ],
+  "heatmap": [
+    [
+      {
+        "key": "2026-7-13",
+        "count": 0,
+        "date": "2026-07-12T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-14",
+        "count": 0,
+        "date": "2026-07-13T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-15",
+        "count": 0,
+        "date": "2026-07-14T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-16",
+        "count": 0,
+        "date": "2026-07-15T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-17",
+        "count": 0,
+        "date": "2026-07-16T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-18",
+        "count": 0,
+        "date": "2026-07-17T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-19",
+        "count": 0,
+        "date": "2026-07-18T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-7-20",
+        "count": 0,
+        "date": "2026-07-19T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-21",
+        "count": 0,
+        "date": "2026-07-20T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-22",
+        "count": 0,
+        "date": "2026-07-21T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-23",
+        "count": 0,
+        "date": "2026-07-22T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-24",
+        "count": 0,
+        "date": "2026-07-23T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-25",
+        "count": 0,
+        "date": "2026-07-24T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-26",
+        "count": 0,
+        "date": "2026-07-25T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-7-27",
+        "count": 0,
+        "date": "2026-07-26T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-28",
+        "count": 0,
+        "date": "2026-07-27T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-29",
+        "count": 0,
+        "date": "2026-07-28T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-30",
+        "count": 0,
+        "date": "2026-07-29T16:00:00.000Z"
+      },
+      {
+        "key": "2026-7-31",
+        "count": 0,
+        "date": "2026-07-30T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-1",
+        "count": 0,
+        "date": "2026-07-31T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-2",
+        "count": 0,
+        "date": "2026-08-01T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-8-3",
+        "count": 0,
+        "date": "2026-08-02T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-4",
+        "count": 0,
+        "date": "2026-08-03T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-5",
+        "count": 0,
+        "date": "2026-08-04T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-6",
+        "count": 0,
+        "date": "2026-08-05T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-7",
+        "count": 0,
+        "date": "2026-08-06T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-8",
+        "count": 0,
+        "date": "2026-08-07T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-9",
+        "count": 0,
+        "date": "2026-08-08T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-8-10",
+        "count": 0,
+        "date": "2026-08-09T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-11",
+        "count": 0,
+        "date": "2026-08-10T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-12",
+        "count": 0,
+        "date": "2026-08-11T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-13",
+        "count": 0,
+        "date": "2026-08-12T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-14",
+        "count": 0,
+        "date": "2026-08-13T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-15",
+        "count": 0,
+        "date": "2026-08-14T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-16",
+        "count": 0,
+        "date": "2026-08-15T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-8-17",
+        "count": 0,
+        "date": "2026-08-16T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-18",
+        "count": 0,
+        "date": "2026-08-17T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-19",
+        "count": 0,
+        "date": "2026-08-18T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-20",
+        "count": 0,
+        "date": "2026-08-19T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-21",
+        "count": 0,
+        "date": "2026-08-20T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-22",
+        "count": 0,
+        "date": "2026-08-21T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-23",
+        "count": 0,
+        "date": "2026-08-22T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-8-24",
+        "count": 0,
+        "date": "2026-08-23T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-25",
+        "count": 0,
+        "date": "2026-08-24T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-26",
+        "count": 0,
+        "date": "2026-08-25T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-27",
+        "count": 0,
+        "date": "2026-08-26T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-28",
+        "count": 0,
+        "date": "2026-08-27T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-29",
+        "count": 0,
+        "date": "2026-08-28T16:00:00.000Z"
+      },
+      {
+        "key": "2026-8-30",
+        "count": 0,
+        "date": "2026-08-29T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-8-31",
+        "count": 0,
+        "date": "2026-08-30T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-1",
+        "count": 0,
+        "date": "2026-08-31T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-2",
+        "count": 6,
+        "date": "2026-09-01T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-3",
+        "count": 1,
+        "date": "2026-09-02T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-4",
+        "count": 0,
+        "date": "2026-09-03T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-5",
+        "count": 0,
+        "date": "2026-09-04T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-6",
+        "count": 0,
+        "date": "2026-09-05T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-9-7",
+        "count": 0,
+        "date": "2026-09-06T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-8",
+        "count": 0,
+        "date": "2026-09-07T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-9",
+        "count": 0,
+        "date": "2026-09-08T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-10",
+        "count": 0,
+        "date": "2026-09-09T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-11",
+        "count": 0,
+        "date": "2026-09-10T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-12",
+        "count": 0,
+        "date": "2026-09-11T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-13",
+        "count": 0,
+        "date": "2026-09-12T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-9-14",
+        "count": 0,
+        "date": "2026-09-13T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-15",
+        "count": 0,
+        "date": "2026-09-14T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-16",
+        "count": 0,
+        "date": "2026-09-15T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-17",
+        "count": 0,
+        "date": "2026-09-16T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-18",
+        "count": 1,
+        "date": "2026-09-17T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-19",
+        "count": 9,
+        "date": "2026-09-18T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-20",
+        "count": 0,
+        "date": "2026-09-19T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-9-21",
+        "count": 0,
+        "date": "2026-09-20T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-22",
+        "count": 0,
+        "date": "2026-09-21T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-23",
+        "count": 0,
+        "date": "2026-09-22T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-24",
+        "count": 0,
+        "date": "2026-09-23T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-25",
+        "count": 0,
+        "date": "2026-09-24T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-26",
+        "count": 0,
+        "date": "2026-09-25T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-27",
+        "count": 1,
+        "date": "2026-09-26T16:00:00.000Z"
+      }
+    ],
+    [
+      {
+        "key": "2026-9-28",
+        "count": 2,
+        "date": "2026-09-27T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-29",
+        "count": 0,
+        "date": "2026-09-28T16:00:00.000Z"
+      },
+      {
+        "key": "2026-9-30",
+        "count": 7,
+        "date": "2026-09-29T16:00:00.000Z"
+      },
+      {
+        "key": "2026-10-1",
+        "count": 0,
+        "date": "2026-09-30T16:00:00.000Z"
+      },
+      {
+        "key": "2026-10-2",
+        "count": 0,
+        "date": "2026-10-01T16:00:00.000Z"
+      },
+      {
+        "key": "2026-10-3",
+        "count": -1,
+        "date": "2026-10-02T16:00:00.000Z"
+      },
+      {
+        "key": "2026-10-4",
+        "count": -1,
+        "date": "2026-10-03T16:00:00.000Z"
+      }
+    ]
+  ],
+  "repos": [
+    {
+      "id": 1034384160,
+      "name": "hexo-circle-of-friends",
+      "description": "Python gets the friend's articles from hexo's friend-links",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-10-01T22:36:22Z",
+      "url": "https://github.com/Gavin-gwj/hexo-circle-of-friends",
+      "fork": true,
+      "size": 879,
+      "topics": []
+    },
+    {
+      "id": 1397783269,
+      "name": "minefield-tactical-sweeper",
+      "description": "MINE//FIELD - a modern tactical Minesweeper built with vanilla HTML, CSS and JavaScript.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-09-30T13:42:15Z",
+      "url": "https://github.com/Gavin-gwj/minefield-tactical-sweeper",
+      "fork": false,
+      "size": 3113,
+      "topics": []
+    },
+    {
+      "id": 1254938456,
+      "name": "gavinblog",
+      "description": "",
+      "language": "Vue",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-05-31T07:47:22Z",
+      "url": "https://github.com/Gavin-gwj/gavinblog",
+      "fork": false,
+      "size": 27783,
+      "topics": []
+    },
+    {
+      "id": 1221380677,
+      "name": "yiwuhulifront",
+      "description": "衣物护理前端代码",
+      "language": "Vue",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-04-26T07:18:12Z",
+      "url": "https://github.com/Gavin-gwj/yiwuhulifront",
+      "fork": false,
+      "size": 52174,
+      "topics": []
+    },
+    {
+      "id": 1221383764,
+      "name": "https---github.com-Gavin-gwj-yiwuhulifront",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-04-26T06:03:05Z",
+      "url": "https://github.com/Gavin-gwj/https---github.com-Gavin-gwj-yiwuhulifront",
+      "fork": false,
+      "size": 0,
+      "topics": []
+    },
+    {
+      "id": 1221381942,
+      "name": "yiwuhuliadmin",
+      "description": "衣物护理前端管理员代码",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-04-26T05:58:52Z",
+      "url": "https://github.com/Gavin-gwj/yiwuhuliadmin",
+      "fork": false,
+      "size": 0,
+      "topics": []
+    },
+    {
+      "id": 1219185809,
+      "name": "yiwuhuli",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-04-23T16:06:01Z",
+      "url": "https://github.com/Gavin-gwj/yiwuhuli",
+      "fork": false,
+      "size": 0,
+      "topics": []
+    },
+    {
+      "id": 1029024614,
+      "name": "weread-to-notion",
+      "description": "一键把微信读书笔记/想法同步至notion",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-01-16T08:30:03Z",
+      "url": "https://github.com/Gavin-gwj/weread-to-notion",
+      "fork": true,
+      "size": 2320,
+      "topics": []
+    },
+    {
+      "id": 1039016330,
+      "name": "Hmall",
+      "description": "黑马商城",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-09-06T12:13:25Z",
+      "url": "https://github.com/Gavin-gwj/Hmall",
+      "fork": false,
+      "size": 446,
+      "topics": []
+    },
+    {
+      "id": 1032368199,
+      "name": "Gavin-gwj",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-08-07T06:20:55Z",
+      "url": "https://github.com/Gavin-gwj/Gavin-gwj",
+      "fork": false,
+      "size": 24,
+      "topics": []
+    },
+    {
+      "id": 1032874582,
+      "name": "MoonTV",
+      "description": "一个开箱即用的、跨平台的影视聚合播放站",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-08-06T01:44:40Z",
+      "url": "https://github.com/Gavin-gwj/MoonTV",
+      "fork": true,
+      "size": 25160,
+      "topics": []
+    },
+    {
+      "id": 982674256,
+      "name": "hugo-dev",
+      "description": "歌未竟个人网站",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-08-05T07:52:58Z",
+      "url": "https://github.com/Gavin-gwj/hugo-dev",
+      "fork": false,
+      "size": 1451,
+      "topics": []
+    },
+    {
+      "id": 1029001385,
+      "name": "weread2notion-pro",
+      "description": "微信读书",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-07-24T06:09:10Z",
+      "url": "https://github.com/Gavin-gwj/weread2notion-pro",
+      "fork": true,
+      "size": 7283,
+      "topics": []
+    },
+    {
+      "id": 1015770853,
+      "name": "True-Story-of-Pangu",
+      "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-07-07T15:34:39Z",
+      "url": "https://github.com/Gavin-gwj/True-Story-of-Pangu",
+      "fork": true,
+      "size": 402,
+      "topics": []
+    },
+    {
+      "id": 1012916440,
+      "name": "sky-take-out",
+      "description": "苍穹外卖",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-07-03T04:58:04Z",
+      "url": "https://github.com/Gavin-gwj/sky-take-out",
+      "fork": false,
+      "size": 0,
+      "topics": []
+    },
+    {
+      "id": 1029050919,
+      "name": "notion_steam_game_list",
+      "description": "基于steam和notion的官方api，创建和自动更新你的notion游戏画廊的工具。A tool to create and automatically update your notion game gallery based on official notion api and steam api.",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-06-11T14:27:09Z",
+      "url": "https://github.com/Gavin-gwj/notion_steam_game_list",
+      "fork": true,
+      "size": 620,
+      "topics": []
+    },
+    {
+      "id": 982744395,
+      "name": "hugo-main",
+      "description": "歌未竟个人网站",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2025-05-14T12:08:09Z",
+      "url": "https://github.com/Gavin-gwj/hugo-main",
+      "fork": false,
+      "size": 6843,
+      "topics": []
+    }
+  ]
+}
