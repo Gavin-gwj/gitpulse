@@ -1,5 +1,7 @@
 # GitPulse
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-gitpulse--omega.vercel.app-black?logo=vercel)](https://gitpulse-omega.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGavin-gwj%2Fgitpulse&project-name=gitpulse&repository-name=gitpulse)
 将任意 GitHub 用户名变成一张清爽的开发者洞察面板：输入用户名，即可看到资料卡、核心指标、语言构成、近期活动热力图与仓库一览。
 
 ![overview](docs/overview-1440.png)
@@ -46,3 +48,4 @@
 ## 致谢
 
 本项目由 Codex 使用 **Build Web Apps** 插件完成：先由 Image Gen 产出整屏概念设计稿，再按设计稿逐像素还原并通过浏览器截图对比验证；数据与托管由 **GitHub** 插件提供。
+
